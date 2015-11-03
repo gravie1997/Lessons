@@ -3,7 +3,7 @@
  */
 public class Anton {
     public static void main(String[] args){
-        // task 1
+        // task 1 ///
         int a=5;
         int b=3;
         a=a+b;
