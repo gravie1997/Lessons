@@ -3,6 +3,7 @@
  */
 public class Anton {
     public static void main(String[] args){
+        // task 1
         int a=5;
         int b=3;
         a=a+b;
@@ -11,6 +12,7 @@ public class Anton {
 
         System.out.println("a="+a);
         System.out.println("b="+b);
+        // task 2
 
 
     }
